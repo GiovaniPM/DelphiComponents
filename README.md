@@ -47,3 +47,16 @@
 >mxstorage121.zip
 >mxsymboldlg110.zip
 >mxwebupdate121.zip
+>```
+
+## [Pro VCL Extensions Library (ProLib)](https://www.barabash.com/prolib/components.html)
+
+>This component library includes 28 components plus classes, procedures, and functions. It works for Borland Delphi 1-9 and Borland C++Builder 1 and 3-6.
+>
+>Installation instructions are included in Step 6 of the Readme.txt file that comes with the download. 
+>
+>### Files on this repository:
+>
+>``` dos
+>ProLib186.zip
+>```
